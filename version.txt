@@ -1,2 +1,2 @@
-2.0
+2.1
 https://github.com/jokerxd2026/ServicioTecnicoJavaFX/releases/download/v2.1/ServicioTecnicoInstaller.exe
